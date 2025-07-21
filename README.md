@@ -54,7 +54,7 @@ llm-fake-news-detector/
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/ishankGPT/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 ````
