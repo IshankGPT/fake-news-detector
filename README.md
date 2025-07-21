@@ -28,10 +28,10 @@ Built with:
 
 llm-fake-news-detector/
 │
-├── app.py                  # Main Flask application (predict\_web.py)
-├── predict\_cli.py          # Command-line interface for predictions
-├── train\_model.py          # Script to train and save model/vectorizer
-├── clean\_text.py           # Text cleaning utility
+├── predict_web.py           # Main Flask application
+├── predict_cli.py          # Command-line interface for predictions
+├── train_model.py          # Script to train and save model/vectorizer
+├── clean_text.py           # Text cleaning utility
 ├── requirements.txt        # Python dependencies
 ├── logs.csv                # Optional: stores user inputs & results
 │
